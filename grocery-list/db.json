@@ -1,0 +1,20 @@
+{
+  "grocery": [
+    {
+      "title": "tomatos",
+      "id": 1
+    },
+    {
+      "title": "potatos",
+      "id": 2
+    },
+    {
+      "title": "methi",
+      "id": 3
+    },
+    {
+      "title": "egg",
+      "id": 4
+    }
+  ]
+}
